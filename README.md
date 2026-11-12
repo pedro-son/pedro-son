@@ -113,27 +113,6 @@ Gestão de equipes, arquitetura de software, definição tecnológica e conduç�
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="Sequência de contribuições"/>
-</p>
-
----
-
-## 📈 Atividade no GitHub
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true" width="100%" alt="Gráfico de atividade no GitHub"/>
-</p>
-
----
-
 ## 🎯 Minha filosofia
 
 Acredito que um bom profissional de tecnologia precisa equilibrar conhecimento técnico, visão de negócio e capacidade de execução.
