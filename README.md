@@ -1,104 +1,173 @@
-# 👋 Olá! Eu sou Pedro Son
 
-### Full Stack Developer | Software Architect | Tech Lead
+<!-- ================================================= -->
+<!-- PEDRO SON | GITHUB PROFILE                        -->
+<!-- ================================================= -->
 
-Transformo desafios de negócio em soluções tecnológicas eficientes, escaláveis e sustentáveis.
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Pedro Son - Full Stack Developer, Software Architect e Tech Lead">
+</p>
 
-Sou profissional de tecnologia com sólida experiência em desenvolvimento de software, arquitetura de sistemas, integrações, gestão de projetos e liderança de equipes. Minha atuação combina conhecimento técnico, visão estratégica e compreensão das necessidades do negócio para construir soluções que geram valor real.
+<h1 align="center">Olá, eu sou Pedro Son! 👋</h1>
 
-Ao longo da minha trajetória, tive a oportunidade de trabalhar em empresas como **Linx e Havan**, além de liderar departamentos de tecnologia e equipes multidisciplinares, assumindo responsabilidades estratégicas e técnicas equivalentes às de um CTO.
+<h3 align="center">
+  Full Stack Developer | Software Architect | Tech Lead
+</h3>
 
-Acredito que desenvolver software vai muito além de escrever código: é compreender problemas, tomar boas decisões arquiteturais e transformar ideias em produtos funcionais, confiáveis e preparados para evoluir.
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
 ---
 
-## 🚀 O que eu faço
+## 🚀 Sobre mim
 
-Minha experiência abrange diferentes etapas do ciclo de desenvolvimento de software, desde a concepção de uma solução até sua arquitetura, implementação, implantação e evolução.
+Sou profissional de tecnologia com sólida experiência em desenvolvimento de software, arquitetura de sistemas, integrações, gestão de projetos e liderança de equipes.
 
-- **Desenvolvimento Full Stack:** construção de aplicações web, sistemas corporativos e plataformas digitais.
-- **Arquitetura de Software:** planejamento de soluções, definição de estruturas, padrões e decisões técnicas.
-- **Sistemas Empresariais:** desenvolvimento e evolução de plataformas ERP, PDV e LMS.
-- **Integrações e APIs:** comunicação entre sistemas, serviços externos e plataformas de terceiros.
-- **Automação de Processos:** desenvolvimento de soluções para reduzir tarefas manuais e aumentar a eficiência operacional.
-- **Liderança Técnica:** organização de equipes, definição de processos, acompanhamento de entregas e direcionamento tecnológico.
-- **Gestão de Projetos:** planejamento, levantamento de requisitos, definição de escopo e acompanhamento de projetos de software.
+Ao longo da minha trajetória, tive a oportunidade de atuar em empresas como **Linx e Havan**, além de liderar equipes e departamentos de tecnologia, assumindo responsabilidades estratégicas e técnicas equivalentes às de um CTO.
+
+Tenho experiência na concepção, arquitetura e desenvolvimento de sistemas complexos, incluindo plataformas **ERP, LMS e PDV**, integrações entre sistemas, APIs, automação de processos e soluções corporativas.
+
+Meu diferencial está na capacidade de compreender o negócio além da necessidade técnica, transformando problemas reais em soluções eficientes, escaláveis e sustentáveis.
+
+Acredito que tecnologia de qualidade não é apenas sobre código: é sobre resolver problemas, simplificar processos e gerar resultados.
+
+---
 
 ## 💻 Tecnologias e ferramentas
 
-Tenho experiência prática com diferentes tecnologias e ferramentas utilizadas no desenvolvimento de soluções modernas.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,react,js,html,css,git,github&theme=dark" alt="Tecnologias e ferramentas"/>
+</p>
 
-**Linguagens e desenvolvimento**
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-Expertise-777BB4?style=flat-square&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Development-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-Development-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
 
-- PHP
-- Python
-- JavaScript
-- HTML5 / CSS3
+### Principais competências
 
-**Frameworks e bibliotecas**
-
-- React.js
-- Ecossistema PHP
-
-**Arquitetura e integração**
-
-- APIs REST
-- Integração entre sistemas
-- Arquitetura de aplicações
-- Modelagem de dados
-- Automação de processos
-
-**Gestão e engenharia de software**
-
-- Análise de requisitos
-- Gestão de projetos
-- Liderança técnica
-- Boas práticas de desenvolvimento
-- Versionamento com Git
-
-## 🏢 Experiência profissional
-
-Minha trajetória profissional foi construída combinando desenvolvimento, análise de sistemas, relacionamento com clientes e liderança de tecnologia.
-
-**Linx | Analista de Sistemas e Líder de Equipe**
-
-Atuação em análise de sistemas, integração de hardware, implantação de novas tecnologias e coordenação de equipes técnicas, contribuindo para a evolução das soluções e integrações do ecossistema da empresa.
-
-**Havan | Analista de Sistemas**
-
-Atuação no gerenciamento de equipes e projetos tecnológicos, com participação na concepção e desenvolvimento de soluções de PDV para o segmento de postos de combustíveis e lojas de departamentos.
-
-**Fácil Informática | Líder de Apoio ao Cliente**
-
-Liderança da equipe de suporte e atendimento, gestão de chamados, relacionamento com clientes e melhoria contínua dos processos de atendimento e resolução de problemas.
-
-**Propofando Empreendimentos | Gerente de Departamento de Desenvolvimento**
-
-Liderança estratégica e técnica do departamento de desenvolvimento, com responsabilidades equivalentes às de um CTO. Gestão de equipes, arquitetura de software e condução de projetos de plataformas ERP e LMS, desde a concepção até a implantação e evolução dos produtos.
-
-## 🧠 Minha filosofia de desenvolvimento
-
-Acredito que um bom software precisa resolver problemas reais, não apenas atender a requisitos técnicos.
-
-Por isso, valorizo:
-
-- **Código de qualidade:** soluções organizadas, legíveis, sustentáveis e de fácil manutenção.
-- **Arquitetura inteligente:** decisões técnicas alinhadas à realidade e aos objetivos do negócio.
-- **Simplicidade:** evitar complexidade desnecessária e priorizar soluções eficientes.
-- **Evolução contínua:** aprender, experimentar e acompanhar a evolução das tecnologias.
-- **Colaboração:** compartilhar conhecimento, trabalhar em equipe e construir soluções em conjunto.
-- **Comprometimento:** responsabilidade com prazos, entregas e resultados.
-
-## 🤝 Vamos construir algo juntos?
-
-Estou aberto a novos desafios, projetos, parcerias e oportunidades profissionais.
-
-Se você procura alguém que consiga compreender uma necessidade de negócio, propor uma solução tecnológica e conduzir sua execução com visão técnica e estratégica, será um prazer conversar.
-
-**Acredito que grandes soluções começam com boas conversas e são construídas com conhecimento, colaboração e comprometimento.**
-
-📩 Entre em contato e vamos conversar sobre seu próximo projeto!
+| Área | Experiência |
+|---|---|
+| Desenvolvimento Full Stack | Aplicações web e sistemas corporativos |
+| Arquitetura de Software | Estruturação e evolução de aplicações |
+| APIs e Integrações | Comunicação entre sistemas e serviços |
+| Sistemas ERP | Gestão empresarial e processos operacionais |
+| Sistemas LMS | Plataformas de gestão de aprendizagem |
+| Sistemas PDV | Soluções comerciais e integração de hardware |
+| Automação | Otimização de processos e rotinas |
+| Gestão de Tecnologia | Estratégia, liderança e direcionamento técnico |
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+## 🧠 Especialidades
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full%20Stack-Development-007ACC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Software-Architecture-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tech-Leadership-8A2BE2?style=for-the-badge"/>
+</p>
+
+- 🚀 Desenvolvimento de aplicações e plataformas digitais.
+- 🏗️ Arquitetura e engenharia de software.
+- 🔗 Integrações entre sistemas e APIs REST.
+- ⚙️ Automação de processos empresariais.
+- 📊 Gestão e desenvolvimento de produtos tecnológicos.
+- 👥 Liderança e desenvolvimento de equipes.
+- 🎯 Planejamento estratégico e gestão de projetos.
+
+---
+
+## 🏢 Experiência profissional
+
+### Linx
+**Analista de Sistemas e Líder de Equipe** | Junho/2010 – Setembro/2014
+
+Atuação em análise de sistemas, integração de hardware, implantação de novas tecnologias e coordenação de equipes técnicas.
+
+### Havan
+**Analista de Sistemas** | Outubro/2014 – Julho/2016
+
+Gerenciamento de equipes e projetos tecnológicos, com participação na concepção e desenvolvimento de soluções de PDV para postos de combustíveis e lojas de departamentos.
+
+### Fácil Informática
+**Líder de Apoio ao Cliente** | Abril/2017 – Dezembro/2024
+
+Liderança de equipe de suporte, gestão de atendimento, relacionamento com clientes, resolução de problemas e melhoria contínua dos processos.
+
+### Propofando Empreendimentos
+**Gerente de Departamento de Desenvolvimento** | Dezembro/2024 – Outubro/2026
+
+Liderança estratégica e técnica do departamento de desenvolvimento, com responsabilidades equivalentes às de um CTO.
+
+Gestão de equipes, arquitetura de software, definição tecnológica e condução de projetos de plataformas ERP e LMS.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" alt="Sequência de contribuições"/>
+</p>
+
+---
+
+## 📈 Atividade no GitHub
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true" width="100%" alt="Gráfico de atividade no GitHub"/>
+</p>
+
+---
+
+## 🎯 Minha filosofia
+
+Acredito que um bom profissional de tecnologia precisa equilibrar conhecimento técnico, visão de negócio e capacidade de execução.
+
+Meus principais valores:
+
+- **Qualidade:** código limpo, organizado e sustentável.
+- **Simplicidade:** soluções eficientes sem complexidade desnecessária.
+- **Estratégia:** tecnologia alinhada aos objetivos do negócio.
+- **Colaboração:** compartilhar conhecimento e construir em equipe.
+- **Comprometimento:** responsabilidade com prazos e entregas.
+- **Evolução:** aprendizado contínuo e melhoria constante.
+
+---
+
+## 🤝 Vamos conversar?
+
+Estou aberto a novos desafios, projetos, parcerias e oportunidades profissionais.
+
+Se você procura alguém que consiga compreender uma necessidade de negócio, arquitetar uma solução tecnológica e conduzir sua execução, será um prazer conversar.
+
+<p align="center">
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Obrigado por visitar meu perfil!</strong>
+</p>
+
+<p align="center">
+  ⭐ Transformando desafios em soluções tecnológicas.
+</p>
