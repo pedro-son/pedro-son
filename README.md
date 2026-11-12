@@ -129,17 +129,16 @@ Meus principais valores:
 ---
 
 ## 🤝 Vamos conversar?
-
 Estou aberto a novos desafios, projetos, parcerias e oportunidades profissionais.
 
 Se você procura alguém que consiga compreender uma necessidade de negócio, arquitetar uma solução tecnológica e conduzir sua execução, será um prazer conversar.
 
 <p align="center">
-  <a href="SEU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="mailto:pydsfreelas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pydsfreelas%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail"/>
   </a>
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://wa.me/5547988263592">
+    <img src="https://img.shields.io/badge/WhatsApp-(47)%2098826--3592-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Conversar pelo WhatsApp"/>
   </a>
 </p>
 
