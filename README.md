@@ -14,14 +14,18 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/pedro-son">
+  <!-- <a href="https://github.com/pedro-son">
     <img src="https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <!-- <a href="SEU_LINKEDIN">
+  <a href="SEU_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a> -->
   <a href="mailto:pydsfreelas@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  
+  <a href="https://wa.me/5547988263592">
+    <img src="https://img.shields.io/badge/WhatsApp-(47)%2098826--3592-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Conversar pelo WhatsApp"/>
   </a>
 </p>
 
